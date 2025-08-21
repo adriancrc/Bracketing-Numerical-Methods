@@ -1,4 +1,4 @@
-# App Interactiva: Métodos de Acotamiento (Bisección & Falsa Posición)
+# App Interactiva: Métodos Numéricos Cerrados (Bisección & Falsa Posición)
 
 🌐 This README is also available in English 🇺🇸: [README.en.md](README.en.md)
 
