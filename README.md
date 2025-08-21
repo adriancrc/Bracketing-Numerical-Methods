@@ -1,4 +1,4 @@
-# App Interactiva: Métodos de Acotamiento (Bisección & Falsa Posición)
+# App Interactiva: Métodos Numéricos Cerrados (Bisección & Falsa Posición)
 
 🌐 This README is also available in English 🇺🇸: [README.en.md](README.en.md)
 
@@ -24,7 +24,7 @@
 
 ## 📘 Descripción
 
-Aplicación desarrollada con **MATLAB App Designer** para resolver ecuaciones no lineales *f(x)=0* mediante **métodos de acotamiento**. Integra **Bisección** y **Falsa Posición (Regula Falsi)**, con verificación de cambio de signo, criterios de paro robustos, tabla de iteraciones y visualización de convergencia. Ideal para cursos de métodos numéricos y laboratorio.
+Aplicación desarrollada con **MATLAB App Designer** para resolver ecuaciones no lineales *f(x)=0* mediante **métodos cerados**. Integra **Bisección** y **Falsa Posición (Regula Falsi)**, con verificación de cambio de signo, criterios de paro robustos, tabla de iteraciones y visualización de convergencia. Ideal para cursos de métodos numéricos y laboratorio.
 
 ---
 
