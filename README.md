@@ -1,9 +1,9 @@
-# App Interactiva: Métodos Numéricos Cerrados (Bisección & Falsa Posición)
+# App Interactiva: Métodos de Acotamiento (Bisección & Falsa Posición)
 
 🌐 This README is also available in English 🇺🇸: [README.en.md](README.en.md)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Bracketing-Numerical-Methods)  
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/181847-bracketing-numerical-methods)
 
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Bracketing-Numerical-Methods)
 ![Total Downloads](https://img.shields.io/github/downloads/adriancrc/Bracketing-Numerical-Methods/total)
@@ -24,7 +24,7 @@
 
 ## 📘 Descripción
 
-Aplicación desarrollada con **MATLAB App Designer** para resolver ecuaciones no lineales *f(x)=0* mediante **métodos de acotamiento**. Integra **Bisección** y **Falsa Posición (Regula Falsi)**, con verificación de cambio de signo, control de error, tabla de iteraciones y visualización de convergencia. Ideal para cursos de métodos numéricos y laboratorio.
+Aplicación desarrollada con **MATLAB App Designer** para resolver ecuaciones no lineales *f(x)=0* mediante **métodos de acotamiento**. Integra **Bisección** y **Falsa Posición (Regula Falsi)**, con verificación de cambio de signo, criterios de paro robustos, tabla de iteraciones y visualización de convergencia. Ideal para cursos de métodos numéricos y laboratorio.
 
 ---
 
@@ -37,11 +37,11 @@ Aplicación desarrollada con **MATLAB App Designer** para resolver ecuaciones no
 
 ## ✨ Características de la aplicación
 
-- Verificación automática de intervalo con **cambio de signo**  
-- **Criterios de paro** por error relativo, |f(x)| y número máximo de iteraciones  
+- Verificación automática de **cambio de signo** en el intervalo  
+- **Criterios de paro** por error relativo, tolerancia |f(x)| y máx. iteraciones  
 - **Tabla de iteraciones** con xr, f(xr), ea% y diagnóstico  
 - **Gráficas** de convergencia (error vs iteración) y de f(x) en el intervalo  
-- Interfaz **intuitiva** para uso docente y autoaprendizaje
+- Interfaz **intuitiva** para docencia y autoaprendizaje
 
 ---
 
@@ -58,7 +58,7 @@ Aplicación desarrollada con **MATLAB App Designer** para resolver ecuaciones no
 
 ## 💻 Requisitos
 
-- **MATLAB R2021a o superior**  
+- **MATLAB (Any release)** — *Creado con R2025a*  
 - No requiere toolboxes adicionales
 
 ---
@@ -81,7 +81,7 @@ Este proyecto está licenciado bajo los términos definidos en el archivo [`LICE
 Si este material te fue útil, apóyame dejando una calificación positiva ⭐⭐⭐⭐⭐ en la página del proyecto.  
 ¡Tu retroalimentación ayuda a mejorar y seguir compartiendo recursos!
 
-[![Califica este proyecto](https://img.shields.io/badge/★★★★★-Califica%20en%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/)
+[![Califica este proyecto](https://img.shields.io/badge/★★★★★-Califica%20en%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/181847-bracketing-numerical-methods)
 
 ---
 
